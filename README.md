@@ -4,7 +4,7 @@
 
 ## Features
 
-- Fully compatible and up-to-date with [Bitcoin Core 0.11.2](https://bitcoin.org/en/download) RPC API.
+- Compatible with [Bitcoin Core](https://bitcoin.org/en/download) RPC API.
 - Strongly-typed structures for complex RPC requests and responses.
 - Implicit JSON casting for all RPC messages.
 - Extended methods for every-day scenarios where the built-in methods fall short.
@@ -12,7 +12,7 @@
 - Custom RPC exceptions.
 - Supports all Bitcoin clones.
 - Can operate on unlimited daemons with a single library reference.
-- [Bitcoin](http://en.wikipedia.org/wiki/Bitcoin), [Litecoin](http://en.wikipedia.org/wiki/Litecoin), [Dogecoin](http://en.wikipedia.org/wiki/Dogecoin), SmartCash and Dash integrations included.
+- [Bitcoin](http://en.wikipedia.org/wiki/Bitcoin), [Litecoin](http://en.wikipedia.org/wiki/Litecoin), [Dogecoin](http://en.wikipedia.org/wiki/Dogecoin), SmartCash, Dash and other Altcoins included.
 - Each coin instance can be fully parametrized at run-time and implement its own constants.
 - Demo client included.
 - Disconnected raw RPC connector included for quick'n'dirty debugging.
@@ -28,7 +28,7 @@ This library took a significant amount of time and effort to build and requires 
 
 ## Support
 
-Premium Support is available by our team of experts for $350/h (min 1 hour) at: [hello@cryptean.com](mailto:hello@cryptean.com).
+Premium Support is available by our team of experts at: [hello@cryptean.com](mailto:hello@cryptean.com).
 
 ## License
 
